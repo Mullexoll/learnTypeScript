@@ -1,0 +1,1 @@
+echo "# learnTypeScript" >> README.md
